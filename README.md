@@ -11,26 +11,26 @@ Software enginnering refers to the systematic process whereby software engineers
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-**The development of programming languages:** several programming languages such as ALGOL, Pascal, and C++ have been developed in the evolution of software engineering.
+The development of programming languages: several programming languages such as ALGOL, Pascal, and C++ have been developed in the evolution of software engineering.
 
-**The establishment of software engineering as a discipline:** software engineering was established as a distinct discipline in the late 1960s due to the need to apply enginerring principles to software development processes to improve reliability, efficiency, and maintainability.
+The establishment of software engineering as a discipline: software engineering was established as a distinct discipline in the late 1960s due to the need to apply enginerring principles to software development processes to improve reliability, efficiency, and maintainability.
 
-**The rise of agile methodologies:** the rise of agile methodologies began in the 2000s with the publication of the agile manifesto authored by 17 developers.
+The rise of agile methodologies: the rise of agile methodologies began in the 2000s with the publication of the agile manifesto authored by 17 developers.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
-**Requirements:** This phase involves gathering and documenting user needs and system requirements.
+Requirements: This phase involves gathering and documenting user needs and system requirements.
 
-**Design:** this phase involves creating high-level and detailed designs of the software architecture and user interfaces.
+Design: this phase involves creating high-level and detailed designs of the software architecture and user interfaces.
 
-**Implementation:** this is the phase where code is written and the software is built according to the design specifications.
+Implementation: this is the phase where code is written and the software is built according to the design specifications.
 
-**Testing:** this phase involves conducting several tests tp ensure the software meets quality standards and functional requirements.
+Testing: this phase involves conducting several tests tp ensure the software meets quality standards and functional requirements.
 
-**Deployment:** this is the phase where the product is released to the users and customers.
+Deployment:* this is the phase where the product is released to the users and customers.
 
-**Maintenance:** this involves providing the ongoing, update, and enhancements to the software product after deployment.
+Maintenance: this involves providing the ongoing, update, and enhancements to the software product after deployment.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
@@ -40,15 +40,15 @@ Waterfall methodology involves sequential approach with distinct phases flowing 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-**Software developer**
+Software developer
 
 Responsible for writing code and implementing software solutions
 
-**Quality Assurance Engineer**
+Quality Assurance Engineer
 
 Ensures software quality by designing and executing test plans
 
-**Project Manager**
+Project Manager
 
 Oversees the planning, execution, and delivery of software products
 
@@ -73,8 +73,8 @@ Prompt engineering is the process of structuring and refining questions and inst
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-**Vague Prompt:** What do you know about computers?
+Vague Prompt: What do you know about computers?
 
-**Clear, specific, and concise prompt:** What is the importance of computers in a bid for businesses to expand their market reach?
+Clear, specific, and concise prompt: What is the importance of computers in a bid for businesses to expand their market reach?
 
 The improved prompt is specific and tells the AI model that I need to know how computers can help a business expand its market reach, compared to the first prompt which is too vague.

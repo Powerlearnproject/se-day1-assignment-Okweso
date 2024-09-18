@@ -28,7 +28,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 **Testing:** this phase involves conducting several tests tp ensure the software meets quality standards and functional requirements.
 
-**Deployment:*8 this is the phase where the product is released to the users and customers.
+**Deployment:** this is the phase where the product is released to the users and customers.
 
 **Maintenance:** this involves providing the ongoing, update, and enhancements to the software product after deployment.
 
@@ -73,8 +73,8 @@ Prompt engineering is the process of structuring and refining questions and inst
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-**Vague Prompt: **What do you know about computers?
+**Vague Prompt:** What do you know about computers?
 
-**Clear, specific, and concise prompt: ** What is the importance of computers in a bid for businesses to expand their market reach?
+**Clear, specific, and concise prompt:** What is the importance of computers in a bid for businesses to expand their market reach?
 
 The improved prompt is specific and tells the AI model that I need to know how computers can help a business expand its market reach, compared to the first prompt which is too vague.
